@@ -1,1 +1,7 @@
 git clone é o comando do Git Bash que clona o repositório do Github para a máquina.
+
+git add . é o comando que adiciona todos os arquivos a serem commitados.
+
+git commit -m "Insira aqui uma mensagem" é o comando que commita os arquivos.
+
+git push origin main é o comando que empurra os arquivos para o Github.
