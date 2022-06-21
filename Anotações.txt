@@ -1,0 +1,1 @@
+git clone é o comando do Git Bash que clona o repositório do Github para a máquina.
